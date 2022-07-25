@@ -1,5 +1,5 @@
 
-public class Type_casting {
+public class Practice-Project1 {
 
 	public static void main(String[] args) {
 		
